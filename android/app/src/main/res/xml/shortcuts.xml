@@ -1,0 +1,15 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+  <shortcut
+    android:shortcutId="edit"
+    android:enabled="true"
+    android:icon="@android:drawable/ic_menu_edit"
+    android:shortcutShortLabel="@string/edit_shortcut_label"
+  >
+      <intent
+      android:action="android.intent.action.EDIT"
+      android:targetPackage="com.gkprojects.request"
+      android:targetClass="com.gkprojects.request.MainActivity"
+    />
+      <categories android:name="android.shortcut.bigBoss" />
+  </shortcut>
+</shortcuts>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GK Request</string>
+    <string name="title_activity_main">GK Request</string>
+    <string name="package_name">com.gkprojects.request</string>
+    <string name="custom_url_scheme">com.gkprojects.request</string>
+    <string name="edit_shortcut_label">Edit</string>
+</resources>
